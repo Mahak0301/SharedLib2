@@ -1,4 +1,4 @@
-def add(){
+def call(){
   echo "sum"
 }
 
